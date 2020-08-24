@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "project_number": "975078251991",
+    "firebase_url": "https://ahmedselmia-6a721.firebaseio.com",
+    "project_id": "ahmedselmia-6a721",
+    "storage_bucket": "ahmedselmia-6a721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975078251991:android:dea0a89cc40a0f50537f92",
+        "android_client_info": {
+          "package_name": "com.example.flutter_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975078251991-u05oganhbe1ku7agbe87f1jtq114ossl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB8MwsYahzki0A7YbWYcEWk5ySJNaRlX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975078251991-u05oganhbe1ku7agbe87f1jtq114ossl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975078251991:android:ac12a6e3a8ca6513537f92",
+        "android_client_info": {
+          "package_name": "com.example.flutter_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975078251991-u05oganhbe1ku7agbe87f1jtq114ossl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB8MwsYahzki0A7YbWYcEWk5ySJNaRlX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975078251991-u05oganhbe1ku7agbe87f1jtq114ossl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975078251991:android:c0e246443a7d2deb537f92",
+        "android_client_info": {
+          "package_name": "com.example.recipe_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975078251991-fpp9gqbrjoqbehu23s1s6n6hpht3k1qj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recipe_book",
+            "certificate_hash": "cf088dab9587563588c90e01e614b9d3317b77ff"
+          }
+        },
+        {
+          "client_id": "975078251991-u05oganhbe1ku7agbe87f1jtq114ossl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB8MwsYahzki0A7YbWYcEWk5ySJNaRlX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975078251991-u05oganhbe1ku7agbe87f1jtq114ossl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975078251991:android:fb18d0124868b888537f92",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975078251991-ngmmnt3c9ek3902pp5g2brmm49nuq5e0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shop_app",
+            "certificate_hash": "45fbfa50602cb54f37b74e9963cb7018d48b953b"
+          }
+        },
+        {
+          "client_id": "975078251991-u05oganhbe1ku7agbe87f1jtq114ossl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB8MwsYahzki0A7YbWYcEWk5ySJNaRlX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975078251991-u05oganhbe1ku7agbe87f1jtq114ossl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975078251991:android:006a2e3d7a82ba0c537f92",
+        "android_client_info": {
+          "package_name": "net.aapg.aapg_myaccount_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975078251991-u05oganhbe1ku7agbe87f1jtq114ossl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB8MwsYahzki0A7YbWYcEWk5ySJNaRlX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975078251991-u05oganhbe1ku7agbe87f1jtq114ossl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
